@@ -93,7 +93,7 @@ Human-centered, trustworthy AI systems, intelligent tutoring platforms, and supp
 
 {%
   include feature.html
-  image="images/education.svg"
+  image="images/research-education.png"
   link="research/?search=%22tag: ai-for-education%22"
   title="AI for Education"
   text=text

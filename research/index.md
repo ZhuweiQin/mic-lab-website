@@ -18,6 +18,8 @@ Our research spans three directions:
 
 {% include figure.html image="images/research-application.png" caption="Efficient deep learning applications: on-device computer vision, sensor-fusion control interfaces, memristor-crossbar hardware, neural-controlled bionic arms, and mobile range-of-motion evaluation." %}
 
+{% include figure.html image="images/research-education.png" caption="AI for education: the SCAPE / AI Collaborative (AICO) platform, a course-specific AI tutoring engine that learns from instructor resources and student interactions." %}
+
 See also Prof. Qin's [Google Scholar profile](https://scholar.google.com/citations?user=FUzqFNAAAAAJ).
 
 {% include section.html %}
