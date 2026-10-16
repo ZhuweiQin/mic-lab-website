@@ -148,4 +148,8 @@ header[data-big] .subtitle {
   filter: drop-shadow(0 0 1px #ffffff) drop-shadow(0 0 4px rgba(255, 255, 255, 0.85));
 }
 
+header[data-big] .title {
+  display: none;
+}
+
 /*# sourceMappingURL=header.css.map */
