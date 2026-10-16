@@ -14,6 +14,10 @@ Our research spans three directions:
 - **Intelligent Sensing & Neural-Machine Interfaces:** real-time gesture recognition from high-density EMG, on-device learning and adaptation, and neural-controlled rehabilitation and prosthetic systems.
 - **AI for Education:** human-centered, trustworthy AI systems, intelligent tutoring platforms, and support for neurodiverse students in engineering.
 
+{% include figure.html image="images/research-algorithm.png" caption="Efficient deep learning algorithms: from cloud deep learning to mobile deep learning and TinyDL, through model compression and hardware/software co-design." %}
+
+{% include figure.html image="images/research-application.png" caption="Efficient deep learning applications: on-device computer vision, sensor-fusion control interfaces, memristor-crossbar hardware, neural-controlled bionic arms, and mobile range-of-motion evaluation." %}
+
 See also Prof. Qin's [Google Scholar profile](https://scholar.google.com/citations?user=FUzqFNAAAAAJ).
 
 {% include section.html %}

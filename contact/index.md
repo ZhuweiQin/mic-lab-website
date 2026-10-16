@@ -24,6 +24,8 @@ Associate Professor of Computer Engineering
   link="https://www.google.com/maps/search/?api=1&query=Science+and+Engineering+Innovation+Center+San+Francisco+State+University"
 %}
 
+{% include figure.html image="images/sfsu-campus.jpg" caption="San Francisco State University" width="700px" %}
+
 {% include section.html %}
 
 ## Prospective Students

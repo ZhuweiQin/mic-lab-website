@@ -46,7 +46,7 @@ Edge and mobile model acceleration, compression and domain adaptation of large l
 
 {%
   include feature.html
-  image="images/efficient-ai.svg"
+  image="images/research-algorithm.png"
   link="research/?search=%22tag: efficient-ai%22"
   title="Efficient AI Computing"
   text=text
@@ -69,7 +69,7 @@ Real-time gesture recognition from high-density EMG, on-device learning and adap
 
 {%
   include feature.html
-  image="images/sensing.svg"
+  image="images/research-application.png"
   link="research/?search=%22tag: neural-machine-interfaces%22"
   title="Intelligent Sensing & Neural-Machine Interfaces"
   flip=true
