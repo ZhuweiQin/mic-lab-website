@@ -27,6 +27,14 @@ The lab is directed by [Dr. Zhuwei Qin](members/zhuwei-qin), Associate Professor
 
 {% include section.html %}
 
+## Join Us
+
+I am looking for motivated students interested in efficient AI, on-device learning, and intelligent sensing / human-machine interfaces.
+Experience with PyTorch, embedded systems, or signal processing is a plus.
+Please email me at zwqin#sfsu.edu (replace # with @) with your CV.
+
+{% include section.html %}
+
 ## Research Directions
 
 {% capture text %}
@@ -113,11 +121,3 @@ Human-centered, trustworthy AI systems, intelligent tutoring platforms, and supp
   flip=true
   style="bare"
 %}
-
-{% include section.html %}
-
-## Join Us
-
-I am looking for motivated students interested in efficient AI, on-device learning, and intelligent sensing / human-machine interfaces.
-Experience with PyTorch, embedded systems, or signal processing is a plus.
-Please email me at zwqin#sfsu.edu (replace # with @) with your CV.
