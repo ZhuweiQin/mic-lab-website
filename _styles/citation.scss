@@ -101,3 +101,17 @@ $wrap: 800px;
     height: $thumb-size;
   }
 }
+
+// compact spacing for the Selected Publications list
+.selected-pubs h3 {
+  display: none;
+}
+
+.selected-pubs .citation {
+  margin: 8px 0;
+}
+
+.selected-pubs .citation-text {
+  gap: 4px;
+  padding: 12px 20px;
+}

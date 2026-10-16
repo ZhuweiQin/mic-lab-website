@@ -26,7 +26,9 @@ See also Prof. Qin's [Google Scholar profile](https://scholar.google.com/citatio
 
 ## Selected Publications
 
+<div class="selected-pubs">
 {% include list.html data="citations" component="citation" filter="group == 'featured'" %}
+</div>
 
 {% include section.html %}
 
