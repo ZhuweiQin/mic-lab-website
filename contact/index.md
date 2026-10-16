@@ -25,9 +25,3 @@ Associate Professor of Computer Engineering
 %}
 
 {% include figure.html image="images/sfsu-campus.jpg" caption="San Francisco State University" width="700px" %}
-
-{% include section.html %}
-
-## Prospective Students
-
-SF State undergraduate and graduate students interested in efficient AI, edge computing, intelligent sensing or AI for education are welcome to reach out by email with a short CV and a description of their interests.

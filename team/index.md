@@ -43,4 +43,4 @@ nav:
 
 {% include section.html dark=true %}
 
-**Join us.** We welcome motivated SF State undergraduate and graduate students interested in efficient AI, edge computing and intelligent sensing. Please see the [Contact](../contact) page.
+**Join us.** We welcome motivated SF State undergraduate and graduate students interested in efficient AI, edge computing and intelligent sensing. See [Join Us](../#join-us) on the home page.
