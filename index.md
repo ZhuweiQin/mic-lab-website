@@ -35,8 +35,8 @@ Edge and mobile model acceleration, compression and domain adaptation of large l
 
 {%
   include button.html
-  link="research/?search=%22tag: efficient-ai%22"
-  text="Related publications"
+  link="research"
+  text="See publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -47,7 +47,7 @@ Edge and mobile model acceleration, compression and domain adaptation of large l
 {%
   include feature.html
   image="images/research-algorithm.png"
-  link="research/?search=%22tag: efficient-ai%22"
+  link="research"
   title="Efficient AI Computing"
   text=text
 %}
@@ -58,8 +58,8 @@ Real-time gesture recognition from high-density EMG, on-device learning and adap
 
 {%
   include button.html
-  link="research/?search=%22tag: neural-machine-interfaces%22"
-  text="Related publications"
+  link="research"
+  text="See publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -70,7 +70,7 @@ Real-time gesture recognition from high-density EMG, on-device learning and adap
 {%
   include feature.html
   image="images/research-application.png"
-  link="research/?search=%22tag: neural-machine-interfaces%22"
+  link="research"
   title="Intelligent Sensing & Neural-Machine Interfaces"
   flip=true
   text=text
@@ -82,8 +82,8 @@ Human-centered, trustworthy AI systems, intelligent tutoring platforms, and supp
 
 {%
   include button.html
-  link="research/?search=%22tag: ai-for-education%22"
-  text="Related publications"
+  link="research"
+  text="See publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -94,7 +94,7 @@ Human-centered, trustworthy AI systems, intelligent tutoring platforms, and supp
 {%
   include feature.html
   image="images/research-education.png"
-  link="research/?search=%22tag: ai-for-education%22"
+  link="research"
   title="AI for Education"
   text=text
 %}

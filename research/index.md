@@ -14,11 +14,11 @@ Our research spans three directions:
 - **Intelligent Sensing & Neural-Machine Interfaces:** real-time gesture recognition from high-density EMG, on-device learning and adaptation, and neural-controlled rehabilitation and prosthetic systems.
 - **AI for Education:** human-centered, trustworthy AI systems, intelligent tutoring platforms, and support for neurodiverse students in engineering.
 
-{% include figure.html image="images/research-algorithm.png" caption="Efficient deep learning algorithms: from cloud deep learning to mobile deep learning and TinyDL, through model compression and hardware/software co-design." %}
+{% include figure.html image="images/research-algorithm.png" width="560px" caption="Efficient deep learning algorithms: from cloud deep learning to mobile deep learning and TinyDL, through model compression and hardware/software co-design." %}
 
-{% include figure.html image="images/research-application.png" caption="Efficient deep learning applications: on-device computer vision, sensor-fusion control interfaces, memristor-crossbar hardware, neural-controlled bionic arms, and mobile range-of-motion evaluation." %}
+{% include figure.html image="images/research-application.png" width="560px" caption="Efficient deep learning applications: on-device computer vision, sensor-fusion control interfaces, memristor-crossbar hardware, neural-controlled bionic arms, and mobile range-of-motion evaluation." %}
 
-{% include figure.html image="images/research-education.png" caption="AI for education: the SCAPE / AI Collaborative (AICO) platform, a course-specific AI tutoring engine that learns from instructor resources and student interactions." %}
+{% include figure.html image="images/research-education.png" width="560px" caption="AI for education: the SCAPE / AI Collaborative (AICO) platform, a course-specific AI tutoring engine that learns from instructor resources and student interactions." %}
 
 See also Prof. Qin's [Google Scholar profile](https://scholar.google.com/citations?user=FUzqFNAAAAAJ).
 
@@ -31,11 +31,5 @@ See also Prof. Qin's [Google Scholar profile](https://scholar.google.com/citatio
 {% include section.html %}
 
 ## All Publications
-
-{% include search-box.html %}
-
-{% include tags.html tags="Efficient AI, Collaborative Learning, Neural-Machine Interfaces, AI for Education" %}
-
-{% include search-info.html %}
 
 {% include list.html data="citations" component="citation" %}
