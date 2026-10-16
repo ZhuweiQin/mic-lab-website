@@ -1,0 +1,91 @@
+# Funded research projects (13 total, about $2.0M)
+
+- title: 'SCAPE: Student-centered Collaborative AI Platform for Personalized Engineering Learning Experience'
+  subtitle: California Education Learning Lab · PI · 03/2025–01/2027
+  image: images/education.svg
+  group: featured
+  link: https://calearninglab.org/2024/11/13/ai-fast-award-announcements/
+  tags:
+  - AI for Education
+  - in progress
+- title: Interdisciplinary Research and Education through the Development of AI-assisted Home Health Monitoring Systems
+  subtitle: National Science Foundation · Co-PI (AI lead) · 05/2025–07/2027
+  image: images/sensing.svg
+  group: featured
+  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2450039
+  tags:
+  - Intelligent Sensing
+  - AI for Education
+  - in progress
+- title: Supporting Neurodiverse Students in Engineering Teamwork through an AI-Driven Platform
+  subtitle: National Science Foundation · Co-PI (AI lead) · 10/2024–09/2027
+  image: images/education.svg
+  group: featured
+  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2417557
+  tags:
+  - AI for Education
+  - in progress
+- title: Efficient and Robust Deep Learning Models for Neural-Machine Interfaces with Spresense Microcontroller
+  subtitle: Sony Sensing Solution University Program · PI · 09/2024–08/2025
+  image: images/sensing.svg
+  link: https://engineering.sfsu.edu/news/sfsu-engineering-achieves-major-milestone-sony-ssup-collaboration
+  tags:
+  - Neural-Machine Interfaces
+  - Efficient AI
+  - completed
+- title: 'Neural2: Efficient Deep Neural Network for Neural-controlled Bionic Arm with Spresense Microcontroller'
+  subtitle: Sony Sensing Solution University Program · PI · 09/2023–09/2024
+  image: images/sensing.svg
+  link: https://developer.sony.com/posts/san-francisco-state-university-joins-sensing-solution-university-collaboration-program/
+  tags:
+  - Neural-Machine Interfaces
+  - Efficient AI
+  - completed
+- title: Intelligent Wireless Spectrum Monitoring with Decentralized On-device Learning
+  subtitle: SF State RSCA Fund 2023 · PI · 2024–2025
+  image: images/efficient-ai.svg
+  tags:
+  - Efficient AI
+  - completed
+- title: Towards Collaborative On-device Intelligence by Interpreting Black Box of Deep Neural Networks
+  subtitle: SF State RSCA Fund 2022 · PI · 2023–2024
+  image: images/efficient-ai.svg
+  tags:
+  - Efficient AI
+  - completed
+- title: 'ELITE: Enhancing Learning through Innovative Teaching Equipment'
+  subtitle: National Science Foundation · Co-PI · 10/2024–09/2025
+  image: images/education.svg
+  tags:
+  - AI for Education
+  - completed
+- title: Developing New Research and Teaching Capabilities in Understanding Dynamic Systems and Control Theory at SFSU
+  subtitle: Department of Defense · Co-PI · 08/2024–08/2025
+  image: images/sensing.svg
+  tags:
+  - Intelligent Sensing
+  - completed
+- title: 'Human-Machine Performance Laboratory: Instrumented Treadmill, Markerless Motion Capture and Human-Machine Equipment'
+  subtitle: Department of Defense · Co-PI · 06/2024–05/2025
+  image: images/sensing.svg
+  tags:
+  - Neural-Machine Interfaces
+  - completed
+- title: Continuous Grasping Adaptation from Multi-Mode Sensory Fusion for a Hand Rehabilitation Exoskeleton
+  subtitle: Ken Fong Translational Research Fund · Co-PI · 2024–2025
+  image: images/sensing.svg
+  tags:
+  - Neural-Machine Interfaces
+  - completed
+- title: Development of a Physical Frailty Assessment System through a Socio-technical Lens
+  subtitle: CSU STEM-NET SEED Grant · Co-PI · 2023–2024
+  image: images/sensing.svg
+  tags:
+  - Intelligent Sensing
+  - completed
+- title: 'mAtas: Computer-vision-based System for Post-stroke Range of Motion Evaluation'
+  subtitle: CSUPERB Industry Partnership Initiative · Co-PI · 2022–2023
+  image: images/sensing.svg
+  tags:
+  - Intelligent Sensing
+  - completed
