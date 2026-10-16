@@ -1,3 +1,5 @@
+Visit **[zhuweiqin.github.io/mic-lab-website](https://zhuweiqin.github.io/mic-lab-website)** 🚀
+
 # MIC Lab Website (preview)
 
 Website of the Mobile and Intelligent Computing Laboratory (MIC Lab), San Francisco State University, directed by Dr. Zhuwei Qin.
