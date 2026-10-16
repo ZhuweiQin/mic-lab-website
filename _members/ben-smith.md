@@ -1,6 +1,6 @@
 ---
 name: Ben Smith
-image: images/fallback.svg
+image: images/ben-smith.jpg
 role: undergrad
 affiliation: Computer Engineering (FA25)
 links:

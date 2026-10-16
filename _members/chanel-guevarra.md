@@ -1,6 +1,6 @@
 ---
 name: Chanel Guevarra
-image: images/fallback.svg
+image: images/chanel-guevarra.jpg
 role: undergrad
 affiliation: Electrical Engineering (FA25)
 links:

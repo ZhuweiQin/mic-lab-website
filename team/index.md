@@ -15,7 +15,6 @@ nav:
 
 ## Research Assistants
 
-{% include list.html data="members" component="portrait" filter="role == 'graduate'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html %}
@@ -24,6 +23,7 @@ nav:
 
 <div class="alumni-list" markdown="1">
 
+- **[Michael Pitts](https://www.linkedin.com/in/michael-pitts-a7a381218/)**, MSECE (SP25). Next: UC Santa Cruz
 - **[Joshua Mehlman](https://www.linkedin.com/in/joshua-mehlman-p-e-0b5886a/)**, MSME (Fall 2024). Master's thesis: *Deep Learning Based Analysis of Footstep Induced Floor Vibrations for Occupant Health Monitoring*. Next: Lecturer, SFSU
 - **[Jose Torres](https://www.linkedin.com/in/jose-torres-13262b263/)**, EE (Fall 2024). Next: realbotix.ai
 - **[Andre Bouvier](https://www.linkedin.com/in/andre-bouvier-dcd-profile/)**, CompE (Spring 2025)
