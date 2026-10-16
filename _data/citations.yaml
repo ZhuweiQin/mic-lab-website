@@ -1,6 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- title: Privacy-Preserving Federated Learning for Transportation Mode Prediction based on Personal Mobility Data
+- title: Privacy-Preserving Federated Learning for Transportation Mode Prediction
+    based on Personal Mobility Data
   authors:
   - Fuxun Yu
   - Zirui Xu
@@ -21,7 +22,8 @@
   - Zirui Xu
   - Chenchen Liu
   - Xiang Chen
-  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), pp. 530–543
+  publisher: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and\
+    \ Systems (TCAD), pp. 530\u2013543"
   date: '2022-03-01'
   link: https://scholar.google.com/scholar?q=%22CAPTORX%3A%20A%20Class-Adaptive%20Convolutional%20Neural%20Network%20Reconfiguration%20Framework%22
   type: journal
@@ -30,14 +32,16 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
-- title: 'REIN the RobuTS: Robust DNN-based Image Recognition in Autonomous Driving Systems'
+- title: 'REIN the RobuTS: Robust DNN-based Image Recognition in Autonomous Driving
+    Systems'
   authors:
   - Fuxun Yu
   - '**Zhuwei Qin**'
   - Chenchen Liu
   - Di Wang
   - Xiang Chen
-  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), pp. 1258–1271
+  publisher: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and\
+    \ Systems (TCAD), pp. 1258\u20131271"
   date: '2021-06-01'
   link: https://scholar.google.com/scholar?q=%22REIN%20the%20RobuTS%3A%20Robust%20DNN-based%20Image%20Recognition%20in%20Autonomous%20Driving%20Systems%22
   type: journal
@@ -45,14 +49,16 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: 'DiReCtX: Dynamic Resource-Aware CNN Reconfiguration Framework for Real-Time Mobile Applications'
+- title: 'DiReCtX: Dynamic Resource-Aware CNN Reconfiguration Framework for Real-Time
+    Mobile Applications'
   authors:
   - Zirui Xu
   - Fuxun Yu
   - '**Zhuwei Qin**'
   - Chenchen Liu
   - Xiang Chen
-  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), pp. 246–259
+  publisher: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and\
+    \ Systems (TCAD), pp. 246\u2013259"
   date: '2021-02-01'
   link: https://scholar.google.com/scholar?q=%22DiReCtX%3A%20Dynamic%20Resource-Aware%20CNN%20Reconfiguration%20Framework%20for%20Real-Time%20Mobile%20Applications%22
   type: journal
@@ -60,13 +66,14 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: 'How Convolutional Neural Network See the World: A Survey of Convolutional Neural Network Visualization Methods'
+- title: 'How Convolutional Neural Network See the World: A Survey of Convolutional
+    Neural Network Visualization Methods'
   authors:
   - '**Zhuwei Qin**'
   - Fuxun Yu
   - Chenchen Liu
   - Xiang Chen
-  publisher: Mathematical Foundations of Computing, pp. 149–180
+  publisher: "Mathematical Foundations of Computing, pp. 149\u2013180"
   date: '2018-05-01'
   link: https://scholar.google.com/scholar?q=%22How%20Convolutional%20Neural%20Network%20See%20the%20World%3A%20A%20Survey%20of%20Convolutional%20Neural%20Network%20Visualization%20Methods%22
   type: journal
@@ -74,7 +81,8 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: 'EfficientXpert: Efficient Domain Adaptation for Large Language Models via Propagation-Aware Pruning'
+- title: 'EfficientXpert: Efficient Domain Adaptation for Large Language Models via
+    Propagation-Aware Pruning'
   authors:
   - Songlin Zhao
   - Michael Pitts
@@ -88,7 +96,8 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
-- title: 'NeuroEdge: Real-Time Hand Gesture Recognition with High-Density EMG Using Deep Learning at the Edge'
+- title: 'NeuroEdge: Real-Time Hand Gesture Recognition with High-Density EMG Using
+    Deep Learning at the Edge'
   authors:
   - Peter Chudinov
   - Zhenyu Lin
@@ -105,7 +114,8 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
-- title: Interdisciplinary Research and Education through the Development of AI-assisted Home Health Monitoring Systems
+- title: Interdisciplinary Research and Education through the Development of AI-assisted
+    Home Health Monitoring Systems
   authors:
   - Zhaoshuo Jiang
   - '**Zhuwei Qin**'
@@ -118,7 +128,8 @@
   - AI for Education
   plugin: sources.py
   file: sources.yaml
-- title: 'Concept-mapping the Struggles and Strengths of Neurodiverse Students in Engineering: A Comparison between Expert- and AI-generated Trees'
+- title: 'Concept-mapping the Struggles and Strengths of Neurodiverse Students in
+    Engineering: A Comparison between Expert- and AI-generated Trees'
   authors:
   - Yiyi Wang
   - Mary Requa
@@ -146,7 +157,8 @@
   - AI for Education
   plugin: sources.py
   file: sources.yaml
-- title: 'Meeting Students'' Needs for Responsible AI: Engineering Student Perspectives from an HSI Public Institution'
+- title: 'Meeting Students'' Needs for Responsible AI: Engineering Student Perspectives
+    from an HSI Public Institution'
   authors:
   - '**Zhuwei Qin**'
   - Jennifer Trainor
@@ -160,7 +172,8 @@
   - AI for Education
   plugin: sources.py
   file: sources.yaml
-- title: 'Introducing the AI Collaborative (AICO) Platform: A Pilot Implementation in Mechanics of Solids'
+- title: 'Introducing the AI Collaborative (AICO) Platform: A Pilot Implementation
+    in Mechanics of Solids'
   authors:
   - '**Zhuwei Qin**'
   - Zhaoshuo Jiang
@@ -180,7 +193,8 @@
   - Jiahua Tang
   - Philip Liang
   - '**Zhuwei Qin**'
-  publisher: IEEE-EMBS International Conference on Body Sensor Networks (BSN), pp. 1–4
+  publisher: "IEEE-EMBS International Conference on Body Sensor Networks (BSN), pp.\
+    \ 1\u20134"
   date: '2025-11-01'
   link: https://scholar.google.com/scholar?q=%22EdgeEMG%3A%20On-Device%20Neural%20Network%20Training%20for%20Real-Time%20EMG%20Pattern%20Recognition%22
   type: paper
@@ -189,7 +203,8 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
-- title: Development of a Soft, Spring-like Finger Tendon Exo-Glove Design with a Four-Output Cable-Driven Linear Servomechanism
+- title: Development of a Soft, Spring-like Finger Tendon Exo-Glove Design with a
+    Four-Output Cable-Driven Linear Servomechanism
   authors:
   - Lauren Gan
   - Oscar Vazquez
@@ -197,7 +212,8 @@
   - '**Zhuwei Qin**'
   - Xiaorong Zhang
   - David Quintero
-  publisher: International Conference on Rehabilitation Robotics (ICORR), pp. 1738–1743
+  publisher: "International Conference on Rehabilitation Robotics (ICORR), pp. 1738\u2013\
+    1743"
   date: '2025-05-01'
   link: https://scholar.google.com/scholar?q=%22Development%20of%20a%20Soft%2C%20Spring-like%20Finger%20Tendon%20Exo-Glove%20Design%20with%20a%20Four-Output%20Cable-Driven%20Linear%20Servomechanism%22
   type: paper
@@ -213,7 +229,8 @@
   - Weishan Zhang
   - Jingyi Wang
   - Xiang Ma
-  publisher: International Symposium on Intelligent Computing and Networking (ISICN), pp. 507–523
+  publisher: "International Symposium on Intelligent Computing and Networking (ISICN),\
+    \ pp. 507\u2013523"
   date: '2025-03-01'
   link: https://scholar.google.com/scholar?q=%22IRS%20Assisted%20Decentralized%20Learning%20for%20Wideband%20Spectrum%20Sensing%22
   type: paper
@@ -221,14 +238,16 @@
   - Collaborative Learning
   plugin: sources.py
   file: sources.yaml
-- title: 'DRome: A Deep Learning-based Mobile Vision System for Real-time Range of Motion Evaluation'
+- title: 'DRome: A Deep Learning-based Mobile Vision System for Real-time Range of
+    Motion Evaluation'
   authors:
   - Ankita Mukherjee
   - Helena Alvarez
   - Xiaorong Zhang
   - '**Zhuwei Qin**'
   - Charmayne Mary Lee Hughes
-  publisher: IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), pp. 315–320
+  publisher: "IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics\
+    \ (BioRob), pp. 315\u2013320"
   date: '2024-09-02'
   link: https://scholar.google.com/scholar?q=%22DRome%3A%20A%20Deep%20Learning-based%20Mobile%20Vision%20System%20for%20Real-time%20Range%20of%20Motion%20Evaluation%22
   type: paper
@@ -236,7 +255,8 @@
   - Neural-Machine Interfaces
   plugin: sources.py
   file: sources.yaml
-- title: 'mMyoHMI: Real-time EMG-based Pattern Recognition with On-device Learning Adaptation'
+- title: 'mMyoHMI: Real-time EMG-based Pattern Recognition with On-device Learning
+    Adaptation'
   authors:
   - Junyu Lu
   - Amir Modan
@@ -244,7 +264,8 @@
   - Charmayne Mary Lee Hughes
   - Xiaorong Zhang
   - '**Zhuwei Qin**'
-  publisher: IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), pp. 747–752
+  publisher: "IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics\
+    \ (BioRob), pp. 747\u2013752"
   date: '2024-09-01'
   link: https://scholar.google.com/scholar?q=%22mMyoHMI%3A%20Real-time%20EMG-based%20Pattern%20Recognition%20with%20On-device%20Learning%20Adaptation%22
   type: paper
@@ -253,7 +274,8 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
-- title: Engaging Community College Students in Artificial Intelligence Research through an NSF-Funded Summer Research Internship Program
+- title: Engaging Community College Students in Artificial Intelligence Research through
+    an NSF-Funded Summer Research Internship Program
   authors:
   - '**Zhuwei Qin**'
   - Xiaorong Zhang
@@ -270,13 +292,15 @@
   - AI for Education
   plugin: sources.py
   file: sources.yaml
-- title: Temporal-encoded 6T-RRAM with Bidirectional Control for Future Neuromorphic Systems
+- title: Temporal-encoded 6T-RRAM with Bidirectional Control for Future Neuromorphic
+    Systems
   authors:
   - Kang Jun Bai
   - Hao Jiang
   - '**Zhuwei Qin**'
   - Clare Thiem
-  publisher: International Symposium on Quality Electronic Design (ISQED), pp. 1–6
+  publisher: "International Symposium on Quality Electronic Design (ISQED), pp. 1\u2013\
+    6"
   date: '2024-04-01'
   link: https://scholar.google.com/scholar?q=%22Temporal-encoded%206T-RRAM%20with%20Bidirectional%20Control%20for%20Future%20Neuromorphic%20Systems%22
   type: paper
@@ -284,7 +308,8 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: Development and First-Year Outcomes of a NSF-Funded Summer Research Internship Program to Engage Community College Students in Engineering Research
+- title: Development and First-Year Outcomes of a NSF-Funded Summer Research Internship
+    Program to Engage Community College Students in Engineering Research
   authors:
   - Xiaorong Zhang
   - David Quintero
@@ -303,13 +328,15 @@
   - AI for Education
   plugin: sources.py
   file: sources.yaml
-- title: Toward Robust High-Density EMG Pattern Recognition using Generative Adversarial Network and Convolutional Neural Network
+- title: Toward Robust High-Density EMG Pattern Recognition using Generative Adversarial
+    Network and Convolutional Neural Network
   authors:
   - Zhenyu Lin
   - Philip Liang
   - Xiaorong Zhang
   - '**Zhuwei Qin**'
-  publisher: IEEE International Conference on Neural Engineering (NER), pp. 1–5
+  publisher: "IEEE International Conference on Neural Engineering (NER), pp. 1\u2013\
+    5"
   date: '2023-05-03'
   link: https://scholar.google.com/scholar?q=%22Toward%20Robust%20High-Density%20EMG%20Pattern%20Recognition%20using%20Generative%20Adversarial%20Network%20and%20Convolutional%20Neural%20Network%22
   type: paper
@@ -317,14 +344,16 @@
   - Neural-Machine Interfaces
   plugin: sources.py
   file: sources.yaml
-- title: 'EffiE: Efficient Convolutional Neural Network for Real-Time EMG Pattern Recognition System on Edge Devices'
+- title: 'EffiE: Efficient Convolutional Neural Network for Real-Time EMG Pattern
+    Recognition System on Edge Devices'
   authors:
   - Junyu Lu
   - Philip Liang
   - Jin Chul Rhim
   - Xiaorong Zhang
   - '**Zhuwei Qin**'
-  publisher: IEEE International Conference on Neural Engineering (NER), pp. 1–5
+  publisher: "IEEE International Conference on Neural Engineering (NER), pp. 1\u2013\
+    5"
   date: '2023-05-02'
   link: https://scholar.google.com/scholar?q=%22EffiE%3A%20Efficient%20Convolutional%20Neural%20Network%20for%20Real-Time%20EMG%20Pattern%20Recognition%20System%20on%20Edge%20Devices%22
   type: paper
@@ -333,7 +362,9 @@
   - Neural-Machine Interfaces
   plugin: sources.py
   file: sources.yaml
-- title: A Collaborative Multidisciplinary Engineering Team Experience with Hierarchical Mentoring from High School through Undergraduate Students within a Summer Research Internship Program
+- title: A Collaborative Multidisciplinary Engineering Team Experience with Hierarchical
+    Mentoring from High School through Undergraduate Students within a Summer Research
+    Internship Program
   authors:
   - David Quintero
   - Xiaorong Zhang
@@ -355,7 +386,8 @@
   - '**Zhuwei Qin**'
   - Xiang Chen
   - Zhi Tian
-  publisher: IEEE International Conference on Communications (ICC) Workshops, pp. 1–6
+  publisher: "IEEE International Conference on Communications (ICC) Workshops, pp.\
+    \ 1\u20136"
   date: '2022-05-01'
   link: https://scholar.google.com/scholar?q=%22Wideband%20Spectrum%20Sensing%20based%20on%20Collaborative%20Multi-Task%20Learning%22
   type: paper
@@ -373,7 +405,8 @@
   - Chenchen Liu
   - Zhi Tian
   - Xiang Chen
-  publisher: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 2066–2074
+  publisher: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),\
+    \ pp. 2066\u20132074"
   date: '2021-08-01'
   link: https://scholar.google.com/scholar?q=%22Fed2%3A%20Feature-Aligned%20Federated%20Learning%22
   type: paper
@@ -398,7 +431,7 @@
   authors:
   - Xiang Chen
   - '**Zhuwei Qin**'
-  publisher: IEEE/ACM Symposium on Edge Computing (SEC), pp. 450–453
+  publisher: "IEEE/ACM Symposium on Edge Computing (SEC), pp. 450\u2013453"
   date: '2020-11-01'
   link: https://scholar.google.com/scholar?q=%22Exploring%20Decentralized%20Collaboration%20in%20Heterogeneous%20Edge%20Training%22
   type: paper
@@ -406,13 +439,15 @@
   - Collaborative Learning
   plugin: sources.py
   file: sources.yaml
-- title: Enabling Efficient ReRAM-based Neural Network Computing via Crossbar Structure Adaptive Optimization
+- title: Enabling Efficient ReRAM-based Neural Network Computing via Crossbar Structure
+    Adaptive Optimization
   authors:
   - Chenchen Liu
   - Fuxun Yu
   - '**Zhuwei Qin**'
   - Xiang Chen
-  publisher: ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), pp. 1–6
+  publisher: "ACM/IEEE International Symposium on Low Power Electronics and Design\
+    \ (ISLPED), pp. 1\u20136"
   date: '2020-08-01'
   link: https://scholar.google.com/scholar?q=%22Enabling%20Efficient%20ReRAM-based%20Neural%20Network%20Computing%20via%20Crossbar%20Structure%20Adaptive%20Optimization%22
   type: paper
@@ -420,7 +455,8 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: 'DCCNN: Computational Flow Redefinition for Efficient CNN Inference through Model Structural Decoupling'
+- title: 'DCCNN: Computational Flow Redefinition for Efficient CNN Inference through
+    Model Structural Decoupling'
   authors:
   - Fuxun Yu
   - '**Zhuwei Qin**'
@@ -429,7 +465,8 @@
   - Chenchen Liu
   - Tian Zhi
   - Xiang Chen
-  publisher: Design, Automation and Test in Europe Conference (DATE), pp. 1097–1102
+  publisher: "Design, Automation and Test in Europe Conference (DATE), pp. 1097\u2013\
+    1102"
   date: '2020-03-01'
   link: https://scholar.google.com/scholar?q=%22DCCNN%3A%20Computational%20Flow%20Redefinition%20for%20Efficient%20CNN%20Inference%20through%20Model%20Structural%20Decoupling%22
   type: paper
@@ -442,7 +479,7 @@
   - '**Zhuwei Qin**'
   - Fuxun Yu
   - Xiang Chen
-  publisher: IEEE/ACM Symposium on Edge Computing (SEC), pp. 340–341
+  publisher: "IEEE/ACM Symposium on Edge Computing (SEC), pp. 340\u2013341"
   date: '2019-11-01'
   link: https://scholar.google.com/scholar?q=%22Task-Adaptive%20Incremental%20Learning%20for%20Intelligent%20Edge%20Devices%22
   type: paper
@@ -470,7 +507,8 @@
   - '**Zhuwei Qin**'
   - Chenchen Liu
   - Xiang Chen
-  publisher: International Joint Conference on Artificial Intelligence (IJCAI), pp. 4199–4205
+  publisher: "International Joint Conference on Artificial Intelligence (IJCAI), pp.\
+    \ 4199\u20134205"
   date: '2019-08-01'
   link: https://scholar.google.com/scholar?q=%22Interpreting%20and%20Evaluating%20Neural%20Network%20Robustness%22
   type: paper
@@ -478,13 +516,15 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: 'CAPTOR: A Class Adaptive Filter Pruning Framework for Convolutional Neural Networks in Mobile Applications'
+- title: 'CAPTOR: A Class Adaptive Filter Pruning Framework for Convolutional Neural
+    Networks in Mobile Applications'
   authors:
   - '**Zhuwei Qin**'
   - Fuxun Yu
   - Chenchen Liu
   - Xiang Chen
-  publisher: Asia and South Pacific Design Automation Conference (ASP-DAC), pp. 444–449
+  publisher: "Asia and South Pacific Design Automation Conference (ASP-DAC), pp. 444\u2013\
+    449"
   date: '2019-01-01'
   link: https://scholar.google.com/scholar?q=%22CAPTOR%3A%20A%20Class%20Adaptive%20Filter%20Pruning%20Framework%20for%20Convolutional%20Neural%20Networks%20in%20Mobile%20Applications%22
   type: paper
@@ -498,7 +538,8 @@
   - Fuxun Yu
   - Chenchen Liu
   - Xiang Chen
-  publisher: NeurIPS 2018 Workshop on Compact Deep Neural Network Representation with Industrial Applications
+  publisher: NeurIPS 2018 Workshop on Compact Deep Neural Network Representation with
+    Industrial Applications
   date: '2018-12-02'
   link: https://scholar.google.com/scholar?q=%22Demystifying%20Neural%20Network%20Filter%20Pruning%22
   type: paper
@@ -512,7 +553,8 @@
   - '**Zhuwei Qin**'
   - Chenchen Liu
   - Xiang Chen
-  publisher: NeurIPS 2018 Workshop on Compact Deep Neural Network Representation with Industrial Applications
+  publisher: NeurIPS 2018 Workshop on Compact Deep Neural Network Representation with
+    Industrial Applications
   date: '2018-12-01'
   link: https://scholar.google.com/scholar?q=%22Distilling%20Critical%20Paths%20in%20Convolutional%20Neural%20Networks%22
   type: paper
@@ -520,14 +562,16 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: 'DiReCt: Resource-Aware Dynamic Model Reconfiguration for Convolutional Neural Network in Mobile Systems'
+- title: 'DiReCt: Resource-Aware Dynamic Model Reconfiguration for Convolutional Neural
+    Network in Mobile Systems'
   authors:
   - Zirui Xu
   - '**Zhuwei Qin**'
   - Fuxun Yu
   - Chenchen Liu
   - Xiang Chen
-  publisher: International Symposium on Low Power Electronics and Design (ISLPED), pp. 1–6
+  publisher: "International Symposium on Low Power Electronics and Design (ISLPED),\
+    \ pp. 1\u20136"
   date: '2018-07-01'
   link: https://scholar.google.com/scholar?q=%22DiReCt%3A%20Resource-Aware%20Dynamic%20Model%20Reconfiguration%20for%20Convolutional%20Neural%20Network%20in%20Mobile%20Systems%22
   type: paper
@@ -535,14 +579,16 @@
   - Efficient AI
   plugin: sources.py
   file: sources.yaml
-- title: 'VoCaM: Visualization Oriented Convolutional Neural Network Acceleration on Mobile System'
+- title: 'VoCaM: Visualization Oriented Convolutional Neural Network Acceleration
+    on Mobile System'
   authors:
   - '**Zhuwei Qin**'
   - Zirui Xu
   - Qide Dong
   - Yiran Chen
   - Xiang Chen
-  publisher: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), pp. 835–840
+  publisher: "IEEE/ACM International Conference on Computer-Aided Design (ICCAD),\
+    \ pp. 835\u2013840"
   date: '2017-11-02'
   link: https://scholar.google.com/scholar?q=%22VoCaM%3A%20Visualization%20Oriented%20Convolutional%20Neural%20Network%20Acceleration%20on%20Mobile%20System%22
   type: paper
@@ -560,7 +606,8 @@
   - Xiang Chen
   - Hai Li
   - Yiran Chen
-  publisher: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), pp. 291–296
+  publisher: "IEEE/ACM International Conference on Computer-Aided Design (ICCAD),\
+    \ pp. 291\u2013296"
   date: '2017-11-01'
   link: https://scholar.google.com/scholar?q=%22AdaLearner%3A%20An%20Adaptive%20Distributed%20Mobile%20Learning%20System%20for%20Neural%20Networks%22
   type: paper
