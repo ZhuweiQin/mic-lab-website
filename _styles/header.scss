@@ -171,3 +171,8 @@ header[data-big] {
 .logo img {
   filter: drop-shadow(0 0 1px #ffffff) drop-shadow(0 0 4px rgba(255, 255, 255, 0.85));
 }
+
+// home page: logo already says "MIC Lab", so hide the duplicate title text
+header[data-big] .title {
+  display: none;
+}
